@@ -558,6 +558,19 @@
                     "ioValue": "source/861078/855280Difference"
                 }
             ]
+        },
+        {
+            "atomType": "Stl",
+            "name": "Stl",
+            "x": 0.9332010582010583,
+            "y": 0.7839506172839507,
+            "uniqueID": 229945,
+            "ioValues": [
+                {
+                    "name": "geometry",
+                    "ioValue": "source/861078/855280Difference"
+                }
+            ]
         }
     ],
     "allConnectors": [
@@ -686,6 +699,13 @@
             "ap2Primary": false,
             "ap1ID": 855280,
             "ap2ID": 503529
+        },
+        {
+            "ap1Name": "geometry",
+            "ap2Name": "geometry",
+            "ap2Primary": false,
+            "ap1ID": 855280,
+            "ap2ID": 229945
         },
         {
             "ap1Name": "geometry",
